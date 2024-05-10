@@ -1,0 +1,22 @@
+http req, status codes
+
+import export, default, multiple
+
+listen server
+
+add middleware
+
+use route
+making route
+
+controllers
+
+
+db connection
+making schema model
+mongoose query
+
+
+utils data validation check
+
+
